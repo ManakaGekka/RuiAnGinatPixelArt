@@ -14,10 +14,10 @@
 <img width="261" height="208" alt="Snipaste_2025-08-30_00-20-26" src="https://github.com/user-attachments/assets/f58a6cd1-4e65-4227-a10c-c241f0259042" />
 
 用记事本打开[Blue Marble-0.85.0.user.js],Ctrl+A,Ctrl+C</br>
-<img width="682" height="715" alt="Snipaste_2025-08-30_00-22-20" src="https://github.com/user-attachments/assets/1bb193c8-97df-4870-8120-fe8168e0ee88" />
+<img width="354" height="232" alt="Snipaste_2025-08-30_00-22-20" src="https://github.com/user-attachments/assets/c65ff649-cc0a-4d8f-b747-4f042215d722" />
 
 在油猴脚本编辑器页面Ctrl+A,Ctrl+v覆盖内容</br>
-<img width="739" height="622" alt="Snipaste_2025-08-30_00-23-18" src="https://github.com/user-attachments/assets/0c233750-f8e7-494d-a72b-a4a880837795" />
+<img width="435" height="313" alt="Snipaste_2025-08-30_00-23-18" src="https://github.com/user-attachments/assets/1c3a07ce-eee1-4ea9-be49-038c80f169da" />
 
 Ctrl+S保存,再次重启浏览器</br>
 进入wplace主页面即可在右侧看到面板</br>
