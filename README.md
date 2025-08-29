@@ -4,7 +4,7 @@
 首先非常感谢各位友友来帮忙,俺代表群主向你们表达最诚挚的谢意</br>
 我们的Discord群组链接:[Discord](https://discord.gg/usPScxgeqy)
 
-###如何参与像素画的绘制工作:</br>
+### 如何参与像素画的绘制工作:
 
 打开[Tampermonkey](https://www.tampermonkey.net/),按照你的浏览器安装对应扩展</br>
 重启浏览器,点击油猴的添加脚本</br>
