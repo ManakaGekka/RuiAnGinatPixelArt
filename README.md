@@ -7,6 +7,7 @@
 ###如何参与像素画的绘制工作:</br>
 
 打开[Tampermonkey](https://www.tampermonkey.net/),按照你的浏览器安装对应扩展</br>
+<img width="1021" height="701" alt="1" src="https://github.com/user-attachments/assets/c299bf9d-d9ed-403a-ad4e-c29d185029dd" />
 重启浏览器,点击油猴的添加脚本</br>
 用记事本打开[Blue Marble-0.85.0.user.js]</br>
 Ctrl+A,Ctrl+C</br>
